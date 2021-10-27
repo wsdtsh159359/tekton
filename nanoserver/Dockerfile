@@ -1,0 +1,2 @@
+FROM mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+MAINTAINER gaowei <wsdtsh159357@gmail.com>
