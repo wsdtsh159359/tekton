@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.29.0@sha256:6d058f2203b9ab66f538cb586c7dc3b7cc31ae958a4135dd99e51799f24b06c9
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.28.0@sha256:12d08ecfb8bd5a635750909b2b1ea63454c97c77bef8aae7c0d6ea4308614c9d
 MAINTAINER gaowei <wsdtsh159357@gmail.com>
