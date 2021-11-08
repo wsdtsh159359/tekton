@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.24.0@sha256:faa1900e1a74e8a9ae96793ead08a5ac85d63aedd49181c080d251d741d05a8e
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.25.0@sha256:31edf8ac33866b10ddaf0684a9b32231e22cae5a4f582e9dad8db07af7e6a44e
 MAINTAINER gaowei <wsdtsh159357@gmail.com>
