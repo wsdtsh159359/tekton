@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.25.0@sha256:a79a4a094e80316b731ef1d0f85b8c6999ae2e89cd203c3a8ccc370c1b302b2b
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.26.0@sha256:79cf8b670ab008d605362641443648d9ac0ff247f1f943bb4d5209716a9b49fa
 MAINTAINER gaowei <wsdtsh159357@gmail.com>
