@@ -1,1 +1,1 @@
-FROM  ghcr.io/ctron/kubectl:latest
+FROM  gcr.io/ctron/kubectl:latest
