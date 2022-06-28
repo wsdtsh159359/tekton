@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.26.0@sha256:8a5ed01f5a0684a90a2f42d247a10a2274f974759562329b200abaed4a804508
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.37.0@sha256:ec618dfa0fc23ae90105135be96bb8c0f9250bfd7682d9d5bab845ab6fd50528
 MAINTAINER gaowei <wsdtsh159357@gmail.com>
