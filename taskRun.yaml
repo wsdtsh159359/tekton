@@ -13,4 +13,4 @@ spec:
     - name: url
       value: https://github.com/wsdtsh159359/tekton.git
     - name: revision
-      value: release
+      value: main
