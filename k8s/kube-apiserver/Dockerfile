@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s/kube-apiserver:v1.28.0
+FROM registry.k8s.io/kube-apiserver:v1.28.2
 MAINTAINER gaowei <wsdtsh159357@gmail.com>
